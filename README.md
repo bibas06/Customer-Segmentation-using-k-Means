@@ -14,9 +14,6 @@
 6. [Usage](#usage)
 7. [Analysis and Results](#analysis-and-results)
 8. [Contributing](#contributing)
-9. [License](#license)
-10. [Author](#author)
-
 ## Project Overview
 CustomerSegmentationUsingKMeans is a project that demonstrates customer segmentation using the K-means clustering algorithm. The goal is to group customers of a retail store based on their purchase history and behavior.
 
