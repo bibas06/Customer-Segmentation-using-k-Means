@@ -68,13 +68,6 @@ The notebook contains the following steps:
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-For any questions or suggestions, please contact:
-- Harsh Singh: [harshjuly12@gmail.com](harshjuly12@gmail.com)
-- GitHub: [harshjuly12](https://github.com/harshjuly12)
 
 
 
